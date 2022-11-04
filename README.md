@@ -31,3 +31,6 @@ simple Unity editor UI for calling InvokeAI (stable diffusion) web interface (lo
 
 ### Images
 ![image](https://user-images.githubusercontent.com/5438317/200028080-b592525d-5db1-4bc3-acdd-cb40de51a187.png)
+
+### Website
+- https://unitycoder.com/blog/2022/11/04/unity-stable-diffusion-plugin/
