@@ -3,6 +3,7 @@ simple Unity editor UI for calling InvokeAI (stable diffusion) web interface (lo
 
 ## Important Note
 - This currently supports only invokeAI version v1.14.1
+- Unity version is 2019.4.25f1 (but should work in newer releases too)
 
 #### Installation : InvokeAI v1.14.1)
 - install anaconda https://docs.anaconda.com/anaconda/install/windows/
