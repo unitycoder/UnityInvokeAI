@@ -30,4 +30,4 @@ simple Unity editor UI for calling InvokeAI (stable diffusion) web interface (lo
 - See https://github.com/unitycoder/UnityInvokeAI/wiki
 
 ### Images
-![image](https://user-images.githubusercontent.com/5438317/200024622-327ca722-5edc-4300-8bc6-575375a9c062.png)
+![image](https://user-images.githubusercontent.com/5438317/200028080-b592525d-5db1-4bc3-acdd-cb40de51a187.png)
