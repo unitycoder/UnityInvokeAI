@@ -26,3 +26,8 @@ simple Unity editor UI for calling InvokeAI (stable diffusion) web interface (lo
 - click save
 - test image creation by adding some prompt and press "Generate"
 
+### Info
+- See https://github.com/unitycoder/UnityInvokeAI/wiki
+
+### Images
+![image](https://user-images.githubusercontent.com/5438317/200024622-327ca722-5edc-4300-8bc6-575375a9c062.png)
