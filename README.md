@@ -12,13 +12,13 @@ simple Unity editor UI for calling InvokeAI (stable diffusion) web interface (lo
 - unzip it
 - run anaconda3 prompt (from windows start menu)
 - Go to your invokeAI download folder: cd C:\Users\USERNAME\Downloads\InvokeAI-release-1.14.1\InvokeAI-release-1.14.1\ (main.py is in this folder)
-- conda activate ldm 
+- *conda activate ldm*
 - download models: https://huggingface.co/CompVis/stable-diffusion-v-1-4-original (you'll need to signup first and accept license agreement)
 - download "sd-v1-4.ckpt"
 - create folder(s) \InvokeAI-release-1.14.1\models\ldm\stable-diffusion-v1
 - place "sd-v1-4.ckpt" file there, rename it as "model.ckpt"
-- python scripts\preload_models.py
-- python scripts\dream.py --web
+- *python scripts\preload_models.py*
+- *python scripts\dream.py --web*
 - test in browser: http://127.0.0.1:9090/
 
 ### Setup Unity plugin
