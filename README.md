@@ -23,7 +23,7 @@ simple Unity editor UI for calling InvokeAI (stable diffusion) web interface (lo
 
 ### Setup Unity plugin
 - open window Tools/StableUI
-- in the settings view, paste in your installation folder (example): **C:\Users\USERNAME\Downloads\InvokeAI-release-1.14.1\InvokeAI-release-1.14.1\**
+- in the settings view, paste in your installation folder (example): **"C:\Users\USERNAME\Downloads\InvokeAI-release-1.14.1\InvokeAI-release-1.14.1\"**
 - click save
 - test image creation by adding some prompt and press "Generate"
 
